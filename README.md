@@ -9,4 +9,20 @@
 
 ![](https://user-images.githubusercontent.com/67301805/218529188-eb796695-5693-44b2-85f1-a34b32fb5328.jpg#vitrinedev)
 
-O que aprendi no 1º curso da formação Data Science (Alura)
+# Sobre o curso 📚
+
+
+
+
+
+
+# Minha prática 👩🏻‍💻
+
+
+
+
+
+
+# Ferramentas utilizadas 🧰 
+<p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    </p>
