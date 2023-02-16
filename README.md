@@ -24,7 +24,7 @@ Utilizamos três bases de dados neste curso, todas relacionadas a filmes. A prim
 
 # Minha prática 👩🏻‍💻
 
-
+Para esta prática, utilizei um dataset disponível no [Kaggle](https://www.kaggle.com/) sobre avaliações de [barras de chocolate](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings), de diversos países, provenientes de diferentes tipos e porcentagem de cacau.
 
 
 
