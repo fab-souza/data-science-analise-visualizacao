@@ -34,9 +34,9 @@ Ao longo do curso, decisões foram tomadas a partir desta informação e que fac
 
 Entende que há uma diferença entre contextualizar a narrativa com um cenário, mesmo que fictício, e exemplos/situações aparentemente aleatórias? Portanto, a partir de agora vou criar um contexto para os projetos, inspirada na didática do curso sobre modelos preditivos e também para replicar o que aprendi no livro.
 
+---
 
-
-Desta forma, para esta prática, utilizei um dataset disponível no [Kaggle](https://www.kaggle.com/) sobre avaliações de [barras de chocolate](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings), provenientes de diversos países, compostos por diferentes tipos e porcentagem de cacau.
+Dito isso, para esta prática, utilizei um dataset disponível no [Kaggle](https://www.kaggle.com/) sobre avaliações de [barras de chocolate](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings), provenientes de diversos países, compostos por diferentes tipos e porcentagem de cacau.
 
 ![image](https://user-images.githubusercontent.com/67301805/219493123-06dc2cee-536c-49f3-b5ee-059fd713a275.png)
 
