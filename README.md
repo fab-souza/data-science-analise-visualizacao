@@ -30,9 +30,9 @@ Até o momento, eu estava replicando o que aprendi nos cursos da Alura. Ou seja,
 
 - e o segundo motivo, é um outro curso que concluí recentemente na Alura, o de [Modelos preditivos em dados: detecção de fraude](https://www.alura.com.br/curso-online-modelos-preditivos-dados-deteccao-fraude), da instrutora [Sthefanie Monica](https://github.com/sthemonica?tab=overview&from=2023-02-01&to=2023-02-17). Antes de dar início a criação do modelo preditivo, a instrutora apresenta o seguinte cenário: 
 *Estamos trabalhando em uma startup de dados e precisamos criar um modelo preditivo para uma instituição financeira fictícia, posteriormente, o projeto será adicionado ao portfólio da empresa e apresentado aos futuros clientes*.
-Ao longo do curso, decisões foram tomadas a partir desta informação e que facilitou minha compreensão. Entende que há uma diferença entre contextualizar a narrativa com um cenário, mesmo que fictício, e exemplos/situações aparentemente aleatórias?
+Ao longo do curso, decisões foram tomadas a partir desta informação e que facilitou minha compreensão. 
 
-Portanto, a partir de agora vou criar um contexto para os projetos, inspirada na didática do curso sobre modelos preditivos e também para replicar o que aprendi no livro.
+Entende que há uma diferença entre contextualizar a narrativa com um cenário, mesmo que fictício, e exemplos/situações aparentemente aleatórias? Portanto, a partir de agora vou criar um contexto para os projetos, inspirada na didática do curso sobre modelos preditivos e também para replicar o que aprendi no livro.
 
 
 
