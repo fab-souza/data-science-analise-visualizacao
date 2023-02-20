@@ -24,19 +24,23 @@ Utilizamos três bases de dados neste curso, todas relacionadas a filmes. A prim
 
 # Minha prática 👩🏻‍💻
 
-Até o momento, eu estava replicando o que aprendi nos cursos da Alura. Ou seja, só estava mostrando o que identifiquei nos dados, usando os métodos e bibliotecas que vi no curso. Porém, decidi apresentar esta prática de outra forma, por dois motivos:
+Até o momento, eu estava replicando o que aprendi nos cursos da Alura. Ou seja, mostrava o que identifiquei nos dados, usando os métodos e bibliotecas que vi no curso. Porém, decidi apresentar esta prática de outra forma, por dois motivos:
 
-- em janeiro, eu terminei de ler o livro [Storytelling com dados](https://altabooks.com.br/produto/storytelling-com-dados/), da Cole Nussbaumer, que é sobre como melhorar a visualização de dados. Mas que também me fez refletir sobre todos os relatórios e apresentações que fiz ao longo da minha vida, tanto acadêmica quanto profissional, porque eu consegui recordar de apresentações em que foquei no “embelezamento” do gráfico, ao invés de melhorar o texto e facilitar a compreensão do ouvinte/leitor. Ao longo do livro, a autora ensina como construir uma narrativa para os dados e deixar a apresentação mais interessante para quem estiver ouvindo/lendo. Que é o oposto do que fiz até o momento, em que explicava brevemente sobre o que se tratava o dataset e resumia o que fiz no notebook.
+- em janeiro, eu terminei de ler o livro [Storytelling com dados](https://altabooks.com.br/produto/storytelling-com-dados/), da Cole Nussbaumer, que é sobre como melhorar a visualização de dados. Ao longo do livro, a autora ensina como construir uma narrativa para os dados e deixar a apresentação mais interessante para quem estiver ouvindo/lendo. Mas durante a leitura, também comecei a refletir sobre todos os relatórios e apresentações que fiz ao longo da minha vida, tanto acadêmica quanto profissional, porque eu consegui recordar de apresentações em que foquei no “embelezamento” do gráfico, ao invés de melhorar o texto e facilitar a compreensão do ouvinte/leitor.
 
 - e o segundo motivo, é um outro curso que concluí recentemente na Alura, o de [Modelos preditivos em dados: detecção de fraude](https://www.alura.com.br/curso-online-modelos-preditivos-dados-deteccao-fraude), da instrutora [Sthefanie Monica](https://github.com/sthemonica?tab=overview&from=2023-02-01&to=2023-02-17). Antes de dar início a criação do modelo preditivo, a instrutora apresenta o seguinte cenário: 
-*Estamos trabalhando em uma startup de dados e precisamos criar um modelo preditivo para uma instituição financeira fictícia, posteriormente, o projeto será adicionado ao portfólio da empresa e apresentado aos futuros clientes*.
+*Estamos trabalhando em uma startup de dados e precisamos criar um modelo preditivo para uma instituição financeira fictícia. Posteriormente, o projeto será adicionado ao portfólio da empresa e apresentado aos futuros clientes*.
 Ao longo do curso, decisões foram tomadas a partir desta informação e que facilitou minha compreensão. 
 
-Entende que há uma diferença entre contextualizar a narrativa com um cenário, mesmo que fictício, e exemplos/situações aparentemente aleatórias? Portanto, a partir de agora vou criar um contexto para os projetos, inspirada na didática do curso sobre modelos preditivos e também para replicar o que aprendi no livro.
+Entende que há uma diferença entre contextualizar a narrativa com um cenário (mesmo que fictício), ao invés de exemplificar com uma situação isolada? 
+
+Que é exatamente o que fiz até o momento, explicava brevemente sobre o que se tratava o dataset e resumia os resultados obtidos no notebook.
+
+Portanto, vou criar um contexto para o projeto, inspirada na didática do curso sobre modelos preditivos e também para replicar o que aprendi com o livro.
 
 ---
 
-Dito isso, para esta prática, utilizei um dataset disponível no [Kaggle](https://www.kaggle.com/) sobre avaliações de [barras de chocolate](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings), provenientes de diversos países, compostos por diferentes tipos e porcentagem de cacau.
+Dito isso, para esta prática, utilizei um dataset disponível no [Kaggle](https://www.kaggle.com/) sobre avaliações de [barras de chocolate](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings), provenientes de diversos países, compostos por diferentes tipos de grão e porcentagem de cacau.
 
 ![image](https://user-images.githubusercontent.com/67301805/219493123-06dc2cee-536c-49f3-b5ee-059fd713a275.png)
 
