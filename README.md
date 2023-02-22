@@ -49,6 +49,7 @@ Neste caso, vamos supor que:
 **Eu preciso fazer a análise exploratória neste dataset, porque estou prestando consultoria para uma empresa do setor de alimentos que nunca trabalhou com chocolate anteriormente, mas quer entrar neste ramo e desenvolver seu produto. 
 Portanto, preciso apresentar os melhores produtos presentes no mercado, os principais concorrentes, de onde eles são, qual grão eles utilizam, qual o país de origem do grão e qual a porcentagem de cacau que possui as melhores avaliações.**
 
+![image](https://user-images.githubusercontent.com/67301805/220790343-cc77c084-bd21-42e1-adad-77be55631534.png)
 
 
 # Ferramentas utilizadas 🧰 
