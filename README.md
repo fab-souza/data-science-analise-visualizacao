@@ -52,6 +52,13 @@ Portanto, preciso apresentar os melhores produtos presentes no mercado, os princ
 ![image](https://user-images.githubusercontent.com/67301805/220790343-cc77c084-bd21-42e1-adad-77be55631534.png)
 
 
+
+
+# Conclusão 🏁
+
+
+
+
 # Ferramentas utilizadas 🧰 
 <p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
