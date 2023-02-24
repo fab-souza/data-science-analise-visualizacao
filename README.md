@@ -53,15 +53,17 @@ Decidi explorar os dados da seguinte maneira:
 
 Calcular a média, ou mediana, das notas para cada variável. Selecionando os fabricantes com as melhores médias, depois os melhores produtos, assim por diante. A cada etapa, criaria um novo dataframe e exploraria as demais variáveis. Por exemplo, ao selecionar os melhores produtos, verificaria de onde eles são, as porcentagens de cacau mais recorrentes, etc.
 
-## Fabricantes:
+## Fabricantes: 🏭
 
-Iniciei a análise pelos ‘Fabricantes’, ao calcular a média de suas notas. Selecionei os 15 que tiveram as melhores médias e criei um novo dataframe, composto por 49 linhas e 9 colunas. 
+Iniciei a análise pelos *Fabricantes*, ao calcular a média de suas notas. Selecionei os 15 que tiveram as melhores médias e criei um novo dataframe, composto por 49 linhas e 9 colunas. 
+
+![image](https://user-images.githubusercontent.com/67301805/221249766-cf0ac0cf-c901-42b6-9677-b39e540fc1ca.png)
 
 Em que, 6 delas são dos Estados Unidos, 2 da França e mais sete países com 1 empresa cada. 
 
-Em seguida, averiguei qual a porcentagem de cacau mais presente nas barras de chocolate, o top 3 é composto por 22 produtos com 70% de cacau, 11 com 72% e 4 com 68%. 
+Em seguida, averiguei qual a porcentagem de cacau mais presente nas barras de chocolate, o top 3 é composto por 24 produtos com 70% de cacau, 11 com 72% e 4 com 68%. 
 
-Ao fazer a análise do tipo de grão mais utilizado, percebi uma incoerência do dataset. Quando fiz o <.info()>, tanto a variável Tipo_grao quanto a Origem_grao, apresentaram apenas 1 linha sem informação, o que considerei ‘ok’ para um dataset com 1795 entradas. Mas, no retorno do <groupby()> haviam 9 produtos sem a informação sobre os grãos… 🤷‍♀️
+Ao fazer a análise do tipo de grão mais utilizado, percebi uma incoerência do dataset. Quando fiz o **.info()**, tanto a variável Tipo_grao quanto a Origem_grao, apresentaram apenas 1 linha sem informação, o que considerei ‘ok’ para um dataset com 1795 entradas. Mas, no retorno do **groupby()** haviam 9 produtos sem a informação sobre os grãos… 🤷‍♀️
 
 Enfim, os grãos mais presentes são: 14 barras de Trinitario, 10 de Criollo, 9 sem identificação e 3 de Blend.
 
