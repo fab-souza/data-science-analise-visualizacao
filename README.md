@@ -81,6 +81,7 @@ Finalizando com o país de origem dos grãos, 14 são da Venezuela, 8 do Peru e 
 
 
 
+
 ![image](https://user-images.githubusercontent.com/67301805/220790343-cc77c084-bd21-42e1-adad-77be55631534.png)
 
 
@@ -88,7 +89,11 @@ Finalizando com o país de origem dos grãos, 14 são da Venezuela, 8 do Peru e 
 
 # Conclusão 🏁
 
+De acordo com os fabricantes: 
 
+Caso a empresa queira desenvolver um produto que consiga as melhores notas, sugiro verificar o concorrente italiano *Amedei*, fabricante do *Chuao*, que recebeu nota máxima na avaliação.
+
+Caso a empresa queira ter uma linha de produtos, com avaliações consistentes e acima da mediana de todas as notas, sugiro verificar a linha de produtos dos concorrentes *Idilio*, *Matale* e *Patric*. 
 
 
 ## Ferramentas utilizadas 🧰 
