@@ -95,6 +95,7 @@ No novo dataframe, com 735 registros, a empresa com maior quantidade de produtos
 Sobre o país de origem dos fabricantes, o mercado norte americano e francês continuam dominando o primeiro e segundo lugar, a mudança está no terceiro lugar, ocupado pelo Canadá, com 10 empresas. 
 
 
+## País de origem da empresa: 🗺️
 
 
 
