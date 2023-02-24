@@ -97,12 +97,13 @@ Sobre o país de origem dos fabricantes, o mercado norte americano e francês co
 
 ## País de origem da empresa: 🗺️
 
+Ao fazer uma contagem de onde são os fabricantes, fica claro o porquê dos Estados Unidos sempre aparecer em maior quantidade nas análises anteriores, pois no dataset de 1795 linhas, 764 delas são referentes a produtos norte-americanos, em que estão registradas 175 empresas distintas. Em seguida vem a França, com 156 produtos, provenientes de 22 empresas, e pelo Canadá, com 125 produtos de 20 empresas.
 
+Para se ter uma ideia do tamanho do mercado norte americano, plotei o gráfico que apresenta a junção de todos os produtos dos Estados Unidos X demais países:
 
+![image](https://user-images.githubusercontent.com/67301805/221291140-87b9ead5-2c7a-4012-8e89-6a20ebb04b7c.png)
 
-
-
-
+Em seguida, plotei um outro gráfico para apresentar os 10 países que estão depois dos Estados Unidos:
 
 ![image](https://user-images.githubusercontent.com/67301805/220790343-cc77c084-bd21-42e1-adad-77be55631534.png)
 
