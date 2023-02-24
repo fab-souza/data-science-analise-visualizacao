@@ -111,11 +111,17 @@ Sobre o país de origem dos fabricantes, o mercado norte americano e francês co
 
 # Conclusão 🏁
 
-De acordo com os fabricantes: 
+### De acordo com os fabricantes: 
 
 Caso a empresa queira desenvolver um produto que consiga as melhores notas, sugiro verificar o concorrente italiano *Amedei*, fabricante do *Chuao*, que recebeu nota máxima na avaliação.
 
 Caso a empresa queira ter uma linha de produtos, com avaliações consistentes e acima da mediana de todas as notas, sugiro verificar a linha de produtos dos concorrentes *Idilio*, *Matale* e *Patric*. 
+
+### De acordo com os produtos:
+
+Seguindo a ideia de desenvolver o melhor produto, reforço a sugestão de verificar o concorrente italiano *Amedei*.
+E caso a empresa queira uma linha de produtos mais consistente, sugiro um estudo mais aprofundado do fabricante *Soma*, que apresentou 10 produtos com nota 4,0.
+
 
 
 ## Ferramentas utilizadas 🧰 
