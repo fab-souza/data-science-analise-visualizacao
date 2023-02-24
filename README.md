@@ -69,14 +69,19 @@ Enfim, os grãos mais presentes são: 14 barras de Trinitario, 10 de Criollo, 9 
 
 Finalizando com o país de origem dos grãos, 14 são da Venezuela, 8 do Peru e 3 sem identificação. 
 
+## Produtos: 🍫
 
+Passando para os *Produtos*, a maioria recebeu uma avaliação entre 3,0 e 3,5. 
 
+![image](https://user-images.githubusercontent.com/67301805/221252528-054f208c-ce1f-4b78-bc48-c5b5923b5b8a.png)
 
+Porém decidi selecionar apenas os produtos com nota maior ou igual a 4,0 que resultou em um dataframe com 100 produtos.
 
+Mais uma vez, o mercado norte americano e francês são os mais frequentes no dataframe, com 16 e 6 empresas respectivamente, seguido pelo mercado do Reino Unido com 4 fabricantes.
 
+Em relação a porcentagem de cacau, mais uma vez, produtos com 70% são os mais frequentes, com 45 produtos, seguidos por 75% e 72%, com 17 e 11 produtos respectivamente. Não houve mudança em relação ao país exportador de cacau, mas há 32 produtos sem informação sobre o tipo de grão, seguido por *Trinitario* com 26 e *Criollo* com 14.
 
-
-
+## Porcentagem de cacau: 🌱
 
 
 
