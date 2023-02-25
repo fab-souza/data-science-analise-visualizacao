@@ -102,9 +102,22 @@ Para se ter uma ideia do tamanho do mercado norte americano, plotei o gráfico q
 ![image](https://user-images.githubusercontent.com/67301805/221368103-85046bb9-f3ab-42c5-a090-74cb3fb5cba8.png)
 ![image](https://user-images.githubusercontent.com/67301805/220790343-cc77c084-bd21-42e1-adad-77be55631534.png)
 
-Ao calcular a média de nota por local, o Chile ficou com na primeira posição, com 3,75, seguido por Amsterdam, Países Baixos e Filipinas, todas com 3,5. Mas ao verificar quantos fabricantes há em cada país, Chile, Países Baixos e Filipinas, assim como a Islândia e Singapura, possuem apenas 1 empresa. O que pode ter facilitado o ranqueamento delas, se sua linha de produtos for pequena, por exemplo 1 ou 2 barras de chocolate, ou tiverem notas com valores próximos.
+Ao calcular a média de nota por local, o Chile ficou com na primeira posição, com 3,75, seguido por Amsterdam, Países Baixos e Filipinas, todas com 3,5. 
+Neste novo dataframe, a empresa com maior quantidade de produtos é a canadense *Soma*, com 47 produtos. O produto com maior variedade de porcentagem de cacau é o *Brazil*, com 6 versões distintas. 
 
-Neste novo dataframe, a empresa com maior quantidade de produtos é a canadense *Soma*, com 47 produtos. O produto com maior variedade de porcentagem é o *Brazil*, com 6 versões distintas. 
+Barras com 70% de cacau continuam ocupando o primeiro lugar na contagem, com 156 produtos, seguido por 72% e 75%, ambas com 30 produtos.
+Ao fazer a contagem dos países dos fabricantes, o Canadá possui 20 empresas no dataframe, Austrália e Itália com 10 empresas cada uma, Suíça com 8.
+Diante o alto valor de empresas canadenses, no total há 125 produtos deste país.
+O grão que mais aparece são os ‘não identificados’, com 137 registros, seguido por *Trinitario*, com 93,  e *Criollo*, com 45. O maior país exportador de grão, continua sendo a Venezuela.
+ 
+
+
+## Tipo de grão: 🌿
+
+
+
+
+
 
 
 
