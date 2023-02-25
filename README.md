@@ -55,11 +55,9 @@ Calcular a média, ou mediana, das notas para cada variável. Selecionando os fa
 
 ## Fabricantes: 🏭
 
-Iniciei a análise pelos *Fabricantes*, ao calcular a média de suas notas. Selecionei os 15 que tiveram as melhores médias e criei um novo dataframe, composto por 49 linhas e 9 colunas. 
+Iniciei a análise pelos *Fabricantes*, ao calcular a média de suas notas. Selecionei os 15 que tiveram as melhores médias e criei um novo dataframe, composto por 49 linhas e 9 colunas. Entre as empresas, 6 delas são dos Estados Unidos, 2 da França e mais sete países com 1 empresa cada.
 
 ![image](https://user-images.githubusercontent.com/67301805/221249766-cf0ac0cf-c901-42b6-9677-b39e540fc1ca.png)
-
-Em que, 6 delas são dos Estados Unidos, 2 da França e mais sete países com 1 empresa cada. 
 
 Em seguida, averiguei qual a porcentagem de cacau mais presente nas barras de chocolate, o top 3 é composto por 24 produtos com 70% de cacau, 11 com 72% e 4 com 68%. 
 
