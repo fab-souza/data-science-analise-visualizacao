@@ -87,9 +87,6 @@ Seguindo para a porcentagem de cacau, selecionei as 15 medianas mais altas. A po
 
 No novo dataframe, com 735 registros, a empresa com maior quantidade de produtos presente é a francesa *Bonnat*, com 26 produtos, e as empresas com maior variedade de porcentagem são a norte americana *Scharffen Berger* e a francesa *Valrhona*, ambas com 6 diferentes porcentagem de cacau.
 
-![image](https://user-images.githubusercontent.com/67301805/221265485-79e25ba2-b8be-4936-9203-261872e70f00.png)
-![image](https://user-images.githubusercontent.com/67301805/221265559-cc80d8d5-f005-4ed1-8197-832ccd58340c.png)
-
 Sobre o país de origem dos fabricantes, o mercado norte americano e francês continuam dominando o primeiro e segundo lugar, a mudança está no terceiro lugar, ocupado pelo Canadá, com 10 empresas. 
 
 
