@@ -61,11 +61,11 @@ Iniciei a análise pelos *Fabricantes*, ao calcular a média de suas notas. Sele
 
 Em seguida, averiguei qual a porcentagem de cacau mais presente nas barras de chocolate, o top 3 é composto por 24 produtos com 70% de cacau, 11 com 72% e 4 com 68%. 
 
-Ao fazer a análise do tipo de grão mais utilizado, percebi uma incoerência do dataset. Quando fiz o **.info()**, tanto a variável Tipo_grao quanto a Origem_grao, apresentaram apenas 1 linha sem informação, o que considerei ‘ok’ para um dataset com 1795 entradas. Mas, no retorno do **groupby()** haviam 9 produtos sem a informação sobre os grãos… 🤷‍♀️
+Ao fazer a análise do tipo de grão mais utilizado, percebi uma incoerência do dataset. Quando fiz o **.info()**, tanto a variável *Tipo_grao* quanto a *Origem_grao*, apresentaram apenas 1 linha sem informação, o que considerei ‘ok’ para um dataset com 1795 entradas. Mas, no retorno do **groupby()** haviam 9 produtos sem a informação sobre os grãos… 🤷‍♀️
 
-Enfim, os grãos mais presentes são: 14 barras de Trinitario, 10 de Criollo, 9 sem identificação e 3 de Blend.
+Enfim, os grãos mais presentes são: 14 barras de *Trinitario*, 10 de *Criollo*, 9 sem identificação e 3 de *Blend*.
 
-Finalizando com o país de origem dos grãos, 14 são da Venezuela, 8 do Peru e 3 sem identificação. 
+Finalizando com o país de origem dos grãos, 14 são da *Venezuela*, 8 do *Peru* e 3 sem identificação. 
 
 ## Produtos: 🍫
 
