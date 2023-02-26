@@ -4,7 +4,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Data Science: análise e visualização de dados**
 | :label: Tecnologias | python
-| :rocket: URL         | Notebook no Kaggle
+| :rocket: URL         | Notebook no [Kaggle](https://www.kaggle.com/code/fabianadesouza/data-science-analise-e-visualiza-o)
 | :fire: Desafio     | Conteúdo do curso [Data Science: analise e visualização de dados](https://www.alura.com.br/curso-online-data-science-primeiros-passos)
 
 ![](https://user-images.githubusercontent.com/67301805/218529188-eb796695-5693-44b2-85f1-a34b32fb5328.jpg#vitrinedev)
