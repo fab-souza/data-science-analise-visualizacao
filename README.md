@@ -118,7 +118,11 @@ O tipo de grão mais frequente no dataframe é o *Forastero (Parazinho)*, utiliz
 
 ## Origem do grão: 🌏🌎🌍
 
-Finalizando com a origem dos grãos, criei o novo dataframe com as 25 melhores médias. O fabricante com mais produtos é a canadense *Soma*, com 9 produtos. A barra de chocolate com mais aparições foi o *Honduras*, fabricado por três empresas de países distintos. A porcentagem mais presente nesta seleção, continua sendo o de 70%, com 25 produtos. Sobre o tipo de grão, há 29 registros sem informação, seguido pelo tipo *Blend*, com 10 aparições. Concluindo com a origem dos grãos, *Honduras* é o maior exportador, com 15 registros, seguido por *Congo* e *Haiti*.
+Finalizando com a origem dos grãos, criei o novo dataframe com as 25 melhores médias. O fabricante com mais produtos é a canadense *Soma*, com 9 produtos. A barra de chocolate com mais aparições foi o *Honduras*, fabricado por três empresas de países distintos. 
+
+![1](https://user-images.githubusercontent.com/67301805/221420441-98ebfab2-de06-4b2a-ac5e-e49c6dfa46d3.png)
+
+A porcentagem mais presente nesta seleção, continua sendo o de 70%, com 25 produtos. Sobre o tipo de grão, há 29 registros sem informação, seguido pelo tipo *Blend*, com 10 aparições. Concluindo com a origem dos grãos, *Honduras* é o maior exportador, com 15 registros, seguido por *Congo* e *Haiti*.
 
 
 
