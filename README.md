@@ -19,8 +19,19 @@ Utilizamos três bases de dados neste curso, todas relacionadas a filmes. A prim
 ![image](https://user-images.githubusercontent.com/67301805/219108394-02ef69af-db48-4f73-8fb9-538083eb5fa3.png)
 ![image](https://user-images.githubusercontent.com/67301805/219108492-8e79a70a-2f0e-4143-a5fc-779947e55069.png)
 
+Com eles, calculamos a média das notas e plotamos um histograma e boxplot para visualizar sua distribuição, fazer a contagem de valores e apresentá-los em gráficos legíveis, ou seja, entendendo o motivo de não usar determinados tipos de gráfico, por exemplo o gráfico de pizza.
 
+![3](https://user-images.githubusercontent.com/67301805/221423831-5258563e-982c-4458-bb5a-89340f97071b.png)
 
+Entender como melhorar a visualização do gráfico de barras, saindo de uma configuração simples para uma mais elaborada.
+
+![4](https://user-images.githubusercontent.com/67301805/221425841-735044bd-f6f6-42f2-b45d-0f97f8852f22.png)
+![5](https://user-images.githubusercontent.com/67301805/221425878-9c8e4593-37c5-4f4c-bc4f-745b55ca2d0c.png)
+
+Finalizando com análise do desvio padrão das notas, entender o que ela significa e de como fica a distribuição da variável analisada no boxplot.
+
+![6](https://user-images.githubusercontent.com/67301805/221426365-332c78a5-5beb-48c7-a03b-1d0e60d28f9e.png)
+![7](https://user-images.githubusercontent.com/67301805/221426401-a776ce02-e89c-425a-a3be-734fda2ab54e.png)
 
 # Minha prática 👩🏻‍💻
 
