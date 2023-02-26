@@ -113,6 +113,8 @@ O grão que mais aparece são os ‘não identificados’, com 137 registros, se
 
 Selecionando os 15 grãos com maior média, resultou em um dataframe com 30 linhas. O fabricante com mais produtos é a brasileira *AMMA*, com 4 produtos, e a empresa com maior variedade de grãos, é a norte americana *Heirloom Cacao Preservation (Guittard)*, com os grãos *Amazon, ICS*, *Beniano* e *EET*. 
 
+![2](https://user-images.githubusercontent.com/67301805/221420542-26c53260-bc29-448c-a93c-044ca2587b80.png)
+
 O tipo de grão mais frequente no dataframe é o *Forastero (Parazinho)*, utilizado por 5 fabricantes. Os três maiores exportadores de grãos são o *Brasil*, *Bolívia* e *Venezuela*.
 
 
