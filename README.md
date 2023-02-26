@@ -153,6 +153,9 @@ Ao finalizar a análise, percebi que poderia ter feito uma limpeza dos dados no 
 
 Em relação à prática, acredito que consegui replicar tudo o que aprendi no curso e um pouco mais, ao fazer seleções que não foram vistas no curso, mas que ajudaram tanto na análise quanto nas visualizações.
 
+--- 
+
+Muito obrigada por chegar até aqui e até a próxima 🤗
 
 
 ## Ferramentas utilizadas 🧰 
