@@ -13,7 +13,7 @@
 
 Este é o primeiro curso da formação Data Science, ministrado pelo instrutor [Guilherme Silveira](https://www.linkedin.com/in/guilhermeazevedosilveira/), em que aprofundei meus conhecimentos sobre o que é fazer ciência de dados, ao fazer mais análises exploratórias de um banco de dados, melhorar a visualização dos gráficos utilizando Matplotlib e Seaborn.
 
-Utilizamos três bases de dados neste curso, todas relacionadas a filmes. A primeira é sobre as notas que o usuário atribuiu aos filmes que já assistiu, a segunda contém o título dos filmes e seus gêneros, enquanto a última era um dataset mais robusto, pois além do título e duração, há informações sobre o orçamento, idioma original, sinopse, popularidade, data de lançamento, nota média e quantidade de votos que o filme recebeu.
+Utilizamos três bases de dados neste curso, todas relacionadas a filmes. A primeira é sobre as notas que o usuário atribuiu aos filmes que já assistiu, a segunda contém o título dos filmes e seus gêneros, enquanto a última era um dataset mais robusto, pois há informações sobre o orçamento, idioma original, sinopse, popularidade, data de lançamento, nota média, quantidade de votos que o filme recebeu, etc.
 
 ![image](https://user-images.githubusercontent.com/67301805/219108327-b5c82f9c-9632-4b52-94f9-81bdad53f1e7.png)
 ![image](https://user-images.githubusercontent.com/67301805/219108394-02ef69af-db48-4f73-8fb9-538083eb5fa3.png)
