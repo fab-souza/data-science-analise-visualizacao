@@ -147,6 +147,13 @@ Caso a empresa tenha interesse, primeiramente, em fazer produtos mais acessívei
 
 No entanto, caso a empresa não esteja preocupada em produzir uma barra de chocolate mais cara, com foco em atingir as maiores notas. Sugiro buscar pelos grãos da *Venezuela*, pois ela foi usada em um dos 2 produtos que receberam a nota máxima.
 
+### Conclusão geral do projeto:
+
+Ao finalizar a análise, percebi que poderia ter feito uma limpeza dos dados no início do projeto, por exemplo retirar dados com apenas 1 registro ou fazer a seleção de itens com pelo menos 5 entradas, para não deixar suas médias altas e enviesar a análise ao eleger fabricantes ou qualquer outra variável por causa de 1 nota. No entanto, se tivesse feito a limpeza, talvez o dataset ficasse com poucos dados, lembrando que utilizei uma base de dados com menos de 2000 registros, que acredito ser a menor base que já usei até o momento.
+
+Em relação à prática, acredito que consegui replicar tudo o que aprendi no curso e um pouco mais, ao fazer seleções que não foram vistas no curso, mas que ajudaram tanto na análise quanto nas visualizações.
+
+
 
 ## Ferramentas utilizadas 🧰 
 <p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
