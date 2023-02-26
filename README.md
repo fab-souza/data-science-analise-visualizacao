@@ -141,6 +141,11 @@ Caso a empresa queira ter uma linha de produtos, com avaliações consistentes e
 Seguindo a ideia de desenvolver o melhor produto, reforço a sugestão de verificar o concorrente italiano *Amedei*.
 E caso a empresa queira uma linha de produtos mais consistente, sugiro um estudo mais aprofundado do fabricante *Soma*, que apresentou 10 produtos com nota 4,0.
 
+### De acordo com a origem do grão:
+
+Caso a empresa tenha interesse, primeiramente, em fazer produtos mais acessíveis, sugiro utilizar grãos da *República Dominicana* ou de *Madagascar*, pois as notas que estes fornecedores receberam estão em uma boa faixa de notas (2,25 e 4,0). Que são valores interessantes para dar início a um produto, testar seu desempenho no mercado e, posteriormente, lançar uma linha de produtos.
+
+No entanto, caso a empresa não esteja preocupada em produzir uma barra de chocolate mais cara, com foco em atingir as maiores notas. Sugiro buscar pelos grãos da *Venezuela*, pois ela foi usada em um dos 2 produtos que receberam a nota máxima.
 
 
 ## Ferramentas utilizadas 🧰 
