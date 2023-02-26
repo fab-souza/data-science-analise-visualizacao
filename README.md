@@ -28,7 +28,7 @@ Entender como melhorar a visualização do gráfico de barras, saindo de uma con
 ![4](https://user-images.githubusercontent.com/67301805/221425841-735044bd-f6f6-42f2-b45d-0f97f8852f22.png)
 ![5](https://user-images.githubusercontent.com/67301805/221425878-9c8e4593-37c5-4f4c-bc4f-745b55ca2d0c.png)
 
-Finalizando com análise do desvio padrão das notas, entender o que ela significa e de como fica a distribuição da variável analisada no boxplot.
+Finalizando com análise do desvio padrão das notas, entender o que ela significa e de como interpretar a distribuição da variável analisada com o boxplot, na configuração mais simples usando o Matplotlib e depois com o Seaborn.
 
 ![6](https://user-images.githubusercontent.com/67301805/221426365-332c78a5-5beb-48c7-a03b-1d0e60d28f9e.png)
 ![7](https://user-images.githubusercontent.com/67301805/221426401-a776ce02-e89c-425a-a3be-734fda2ab54e.png)
