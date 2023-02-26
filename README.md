@@ -117,8 +117,6 @@ Barras com 70% de cacau continuam ocupando o primeiro lugar na contagem, com 156
 Ao fazer a contagem dos países dos fabricantes, o Canadá possui 20 empresas no dataframe, Austrália e Itália com 10 empresas cada uma, Suíça com 8.
 Diante o alto valor de empresas canadenses, no total há 125 produtos deste país.
 O grão que mais aparece são os ‘não identificados’, com 137 registros, seguido por *Trinitario*, com 93,  e *Criollo*, com 45. O maior país exportador de grão, continua sendo a Venezuela.
- 
-
 
 ## Tipo de grão: 🌿
 
@@ -136,8 +134,6 @@ Finalizando com a origem dos grãos, criei o novo dataframe com as 25 melhores m
 ![1](https://user-images.githubusercontent.com/67301805/221420441-98ebfab2-de06-4b2a-ac5e-e49c6dfa46d3.png)
 
 A porcentagem mais presente nesta seleção, continua sendo o de 70%, com 25 produtos. Sobre o tipo de grão, há 29 registros sem informação, seguido pelo tipo *Blend*, com 10 aparições. Concluindo com a origem dos grãos, *Honduras* é o maior exportador, com 15 registros, seguido por *Congo* e *Haiti*.
-
-
 
 # Conclusão 🏁
 
