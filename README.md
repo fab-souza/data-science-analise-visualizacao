@@ -35,7 +35,7 @@ Finalizando com análise do desvio padrão das notas, entender o que ela signifi
 
 # Minha prática 👩🏻‍💻
 
-Até o momento, eu estava replicando o que aprendi nos cursos da Alura. Ou seja, mostrava o que identifiquei nos dados, usando os métodos e bibliotecas que vi no curso. Porém, decidi apresentar esta prática de outra forma, por dois motivos:
+Até o momento, eu estava replicando o que aprendi nos cursos da Alura. Porém, decidi apresentar esta prática de outra forma, por dois motivos:
 
 - em janeiro, eu terminei de ler o livro [Storytelling com dados](https://altabooks.com.br/produto/storytelling-com-dados/), da Cole Nussbaumer, que é sobre como melhorar a visualização de dados. Ao longo do livro, a autora ensina como construir uma narrativa para os dados e deixar a apresentação mais interessante para quem estiver ouvindo/lendo. Mas durante a leitura, também comecei a refletir sobre todos os relatórios e apresentações que fiz ao longo da minha vida, tanto acadêmica quanto profissional, porque eu consegui recordar de situações em que foquei no “embelezamento” do gráfico, ao invés de melhorar o texto e facilitar a compreensão do ouvinte/leitor.
 
